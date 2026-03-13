@@ -1,0 +1,5 @@
+name = input("What is your name?")
+favorite_game = input("What is your favorite game?")
+print("Hello", name, "!")
+print("I heard your favorite game is", favorite_game)
+print("This is the start to your new life!") 
